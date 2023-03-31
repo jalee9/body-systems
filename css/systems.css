@@ -1,0 +1,30 @@
+/* Instructor Jennifer Lee - Assignment 5 */
+
+/* Body rules */
+body {
+    width: 70%;
+    margin: 0 auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: blanchedalmond;
+}
+
+/* Compound selector for header and h1 */
+header h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+/* Compound selector for list element - italic */
+aside ul li {
+    font-style: italic;
+}
+
+/* Compound selector for anchor element in footer - remove underline */
+footer a {
+    text-decoration: none;
+}
+
+
+
+
